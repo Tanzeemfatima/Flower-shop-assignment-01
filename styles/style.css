@@ -137,7 +137,7 @@ figure {
     background-image: url('../Flower Asset/Rectangle 9.png');
     background-repeat: no-repeat;
     margin: 200px 200px;
-    height: 200px;
+    height: 300px;
     justify-content: center;
     align-items: center;
 }
@@ -145,12 +145,13 @@ figure {
 .deal-title {
     font-size: 25px;
     text-align: center;
+    padding: 30px;
 }
 
 .deal-des {
     font-size: 22px;
     text-align: center;
-    padding: 20px;
+    padding: 30px;
 }
 
 .mail-part {

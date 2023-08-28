@@ -40,3 +40,55 @@
 }
 
 /* -- -----------------banner part end------------ -- */
+
+/* - ----------featured flower part start-------- - */
+main {
+    margin: 100px 0px;
+}
+
+.ft-title {
+    font-size: 30px;
+    text-align: center;
+}
+
+.ft-des {
+    font-size: 22px;
+    text-align: center;
+    padding: 20px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 200px;
+}
+
+.img-1 {
+    width: 250px;
+    height: 280px;
+    background-color: rgb(255, 192, 215);
+    padding: 30px;
+    border-radius: 45% 45% 0 0;
+}
+
+.img-2 {
+    width: 250px;
+    height: 280px;
+    background-color: lightskyblue;
+    padding: 30px;
+    border-radius: 45% 45% 0 0;
+}
+
+.img-3 {
+    width: 250px;
+    height: 280px;
+    background-color: rgb(158, 203, 188);
+    padding: 30px;
+    border-radius: 45% 45% 0 0;
+}
+
+figure {
+    text-align: center;
+}
+
+/* -- ----------featured flower part End-------- -- */

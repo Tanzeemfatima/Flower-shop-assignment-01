@@ -100,6 +100,7 @@ figure {
     justify-content: center;
     align-items: center;
     background-color: papayawhip;
+    margin: 200px 0px;
 
 }
 
@@ -109,3 +110,60 @@ figure {
 }
 
 /* ---------sale part end-------- */
+
+/* ---------instagram part start-------  */
+
+.inst-title {
+    font-size: 30px;
+    text-align: center;
+}
+
+.inst-des {
+    font-size: 22px;
+    text-align: center;
+    padding: 20px;
+}
+
+.Off {
+    color: purple;
+    font-size: 24px;
+}
+
+/* ---------instagram part end-------  */
+
+/* ---------Latest deal part start---------- */
+
+.deal-container {
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    margin: 200px 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.deal-title {
+    font-size: 25px;
+    text-align: center;
+}
+
+.deal-des {
+    font-size: 22px;
+    text-align: center;
+    padding: 20px;
+}
+
+.mail-part {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+
+    padding: 10px;
+    width: 500px;
+    margin: 0px 50px;
+
+}
+
+/* ---------Latest deal part end---------- */

@@ -41,11 +41,12 @@
 
 /* -- -----------------banner part end------------ -- */
 
-/* - ----------featured flower part start-------- - */
+
 main {
     margin: 100px 0px;
 }
 
+/* - ----------featured flower part start-------- - */
 .ft-title {
     font-size: 30px;
     text-align: center;
@@ -65,7 +66,7 @@ main {
 
 .img-1 {
     width: 250px;
-    height: 280px;
+    height: 350px;
     background-color: rgb(255, 192, 215);
     padding: 30px;
     border-radius: 45% 45% 0 0;
@@ -73,7 +74,7 @@ main {
 
 .img-2 {
     width: 250px;
-    height: 280px;
+    height: 350px;
     background-color: lightskyblue;
     padding: 30px;
     border-radius: 45% 45% 0 0;
@@ -81,7 +82,7 @@ main {
 
 .img-3 {
     width: 250px;
-    height: 280px;
+    height: 350px;
     background-color: rgb(158, 203, 188);
     padding: 30px;
     border-radius: 45% 45% 0 0;
@@ -92,3 +93,19 @@ figure {
 }
 
 /* -- ----------featured flower part End-------- -- */
+
+/* ----------------sale part start-------- */
+.sale-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: papayawhip;
+
+}
+
+.sale-des {
+    padding: 25px 0px;
+    font-size: 20px;
+}
+
+/* ---------sale part end-------- */

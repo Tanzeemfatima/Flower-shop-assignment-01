@@ -13,9 +13,14 @@
     align-items: center;
 }
 
+.banner-text {
+    padding: 20px;
+}
+
 .banner-title {
     font-size: 50px;
     font-weight: bold;
+
 }
 
 .banner-des {

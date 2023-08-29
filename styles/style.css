@@ -136,6 +136,50 @@ figure {
 
 /* ---------instagram part end-------  */
 
+/* -----------bonus part start------  */
+.bns-container {
+    margin: 100px 0px;
+}
+
+.bns-title {
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.bns-des {
+    padding: 25px 0px;
+    font-size: 22px;
+    text-align: center;
+    padding: 50px;
+}
+
+hr {
+    height: 5px solid pink;
+    width: 75%;
+    margin: 100px 200px;
+}
+
+.bns-img {
+    margin: 50px 900px;
+    background-color: plum;
+    border-radius: 50% 0 50% 0;
+    padding: 30px;
+}
+
+.bns-img:hover {
+    cursor: pointer;
+    border: 2px solid palevioletred;
+}
+
+.hotline-num {
+    color: blueviolet;
+    font-size: 22px;
+    font-style: italic;
+}
+
+/* -----------bonus part end------  */
+
 /* ---------Latest deal part start---------- */
 
 .deal-container {
